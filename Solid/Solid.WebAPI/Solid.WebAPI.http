@@ -1,0 +1,6 @@
+@Solid.WebAPI_HostAddress = http://localhost:5062
+
+GET {{Solid.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
